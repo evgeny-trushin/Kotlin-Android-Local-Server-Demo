@@ -29,9 +29,9 @@ override fun onCreate(savedInstanceState: Bundle?) {
   - As a result, a local Android server will be made available in their mobile application. 
   
 ### The main features:
-- Responses will be automatically detected in the assets folder]
+- Responses will be automatically detected in the assets folder.
 - Text representation of a query automatically parsed and made accessible in the mobile browser.
 
 ### Todos
 
- - Move the server to the service in the example
+ - Move the server to the service in the example.
